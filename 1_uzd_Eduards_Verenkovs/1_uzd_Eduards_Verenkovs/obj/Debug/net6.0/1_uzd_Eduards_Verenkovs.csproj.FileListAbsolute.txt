@@ -1,0 +1,15 @@
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.AssemblyInfoInputs.cache
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.AssemblyInfo.cs
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\bin\Debug\net6.0\1_uzd_Eduards_Verenkovs.exe
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\bin\Debug\net6.0\1_uzd_Eduards_Verenkovs.deps.json
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\bin\Debug\net6.0\1_uzd_Eduards_Verenkovs.runtimeconfig.json
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\bin\Debug\net6.0\1_uzd_Eduards_Verenkovs.dll
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\bin\Debug\net6.0\1_uzd_Eduards_Verenkovs.pdb
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.dll
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\refint\1_uzd_Eduards_Verenkovs.dll
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.pdb
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\1_uzd_Eduards_Verenkovs.genruntimeconfig.cache
+C:\Users\eduar\source\repos\1_uzd_Eduards_Verenkovs\1_uzd_Eduards_Verenkovs\obj\Debug\net6.0\ref\1_uzd_Eduards_Verenkovs.dll
